@@ -1,0 +1,46 @@
+[
+  {
+    "title" : "Milánói spagetti",
+    "image": "https://www.mindmegette.hu/images/219/O/milani-spagetti.jpg",
+    "url": "https://www.mindmegette.hu/milanoi-spagetti.recept/",
+    "hozzavalok" : ["1 fej hagyma",
+                    "80dkg darált hús", 
+                    "pirospaprika", 
+                    "só", 
+                    "bors", 
+                    "oregano", 
+                    "bazsalikom", 
+                    "50dkg hámozott paradicsom", 
+                    "5dl paradicsomszósz", 
+                    "1 gerezd fokhagyma", 
+                    "30dkg gomba", 
+                    "10dkg reszelt parmezán sajt", 
+                    "2 csomag spagetti tészta"],
+    "recept" : "Az apróra vágott hagymát üvegesre dinszteljük, rátesszük a húst és fehéredésig pároljuk, majd hozzákeverjük a fűszereket. Hozzáadjuk a hámozott paradicsomot, a paradicsomszószt, a zúzott fokhagymát és a megtisztított és szeletekre vágott gombát, és készre főzzük. A végén reszelt parmezán felét hozzá keverjük. A tésztát, leszűrjük, majd ráöntjük a szószt, és a reszelt sajt másik felével tálaljuk."
+  },
+  {
+    "title": "Zöldborsófőzelék",
+    "image": "https://www.mindmegette.hu/images/230/O/img_4306.jpg",
+    "url": "https://www.mindmegette.hu/finom-zoldborsofozelek.recept/",
+    "hozzavalok" : ["1kg	zöldborsó", 
+                    "1ek	étolaj", 
+                    "só", 
+                    "cukor", 
+                    "2ek	liszt", 
+                    "6dl tej"],
+    "recept" : "A zöldborsót az olajon megpároljuk, megsózzuk, megcukrozzuk ízlés szerint. Amikor elég puha, rászórjuk a lisztet, és együtt pirítjuk egy kicsit, majd ráöntjük a hideg tejet. Felforraljuk, majd néhány percig takarék lángon főzzük. Ha túl sűrű, teszünk hozzá még egy kis tejet.  Fasírttal, virslivel, tükörtojással tálaljuk."
+  },
+  {
+    "title" : "Baconös-sajtos sült krumpli",
+    "image" : "https://www.mindmegette.hu/images/223/O/sajtos_baconos_krumpli.jpg",
+    "url" : "https://www.mindmegette.hu/sult-krumpli-baconnel-es-sajttal.recept/",
+    "hozzavalok" : ["1.5kg	krumpli", 
+                    "olaj", 
+                    "só", 
+                    "5dkg	margarin", 
+                    "1 fej	vöröshagyma", 
+                    "10dkg	bacon", 
+                    "15dkg	sajt"],
+    "recept" : "A krumplit megtisztítjuk, megpucoljuk, vékony csíkokra vágjuk, majd forró olajban kisütjük. Ha kész, leitatjuk róla a felesleges zsiradékot, enyhén megsózzuk. Egy kisebb tepsit vékonyan kikenünk a margarinnal, majd beletesszük a krumplit és összekeverjük az apróra vágott vöröshagymával. A tetejére szórjuk a felkockázott bacont, és jó vastagon megszórjuk a reszelt sajttal. Előmelegített, 180 fokos sütőben addig sütjük, amíg a sajt megolvad és a bacon pedig ropogósra sül."
+  }
+]

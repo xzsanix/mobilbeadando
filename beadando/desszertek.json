@@ -1,0 +1,51 @@
+[
+  {
+    "title" : "Fehér csokis kekszszelet",
+    "image" : "https://www.mindmegette.hu/images/138/O/crop_201601221029_fehercsokis_szelet.jpg",
+    "url" : "https://www.mindmegette.hu/feher-csokis-keksz-szelet.recept/",
+    "hozzavalok" : ["25dkg	háztartási keksz",	
+                    "1db	konzerv cukrozott sűrített tej",	
+                    "3.6dl	tej",	
+                    "5dkg	cukor",	
+                    "2db	tojás",	
+                    "3ek	kukoricakeményítő",	
+                    "2ek	liszt",
+                    "1tk	vaníliaaroma",	
+                    "12.5dkg	vaj",	
+                    "10dkg	fehér csokoládé",	
+                    "4.5dl	tejszín",	
+                    "10dkg	étcsokoládé",	
+                    "3tk	porcukor"],
+    "recept" : "A háztartási keksz 1/3 részét egy 20 x 20 centis, alufóliával bélelt tepsibe fektetjük. A sűrített tejet lábosba tesszük, és kissé megkaramellizáljuk. A kekszrétegre simítjuk, majd befedjük egy réteg háztartási keksszel. Az aranykrémhez a tejet közepes lángon megmelegítjük, majd egy keveset összekeverünk a ral, a tojások sárgájával, a keményítővel, a liszttel és az aromával. A fehér csokoládét vízgőz fölött megolvasszuk, majd hagyjuk kihűlni. A tojásfehérjét kemény habbá verjük. A megmaradt tejet forráspontig hevítjük, majd hozzáöntjük a tojásos-keményítős-tejes keveréket, és besűrítjük a krémet. Hozzáadjuk hozzá a felkockázott, hideg a vajat, a felolvasztott fehér csokit, végül – még forrón – óvatos mozdulatokkal beleforgatjuk a tojásfehérjét is. Az így kapott pudingalapot azonnal elterítjük a kekszrétegen, majd ismét befedjük egy sor keksszel. Végül a hűtőbe tesszük. 0,5 dl tejszínt felforralunk, és ráöntjük a felaprított étcsokoládéra. Fél percig állni hagyjuk, majd simára keverjük, és hagyjuk teljesen kihűlni. A megmaradt tejszínt kemény habbá verjük a ral, és bevonjuk vele a pudingos réteget. Végül ráreszeljük a tejszínes étcsokoládét."
+  },
+  {
+    "title" : "Kevert meggyes",
+    "image" : "https://image-api.nosalty.hu/nosalty/images/recipes/zf/VN/kevert-meggyes-ahogy-a-nagyi-csinalja.jpeg?mark=watermark.png&markpos=bottom-left&markpad=20&s=b21143194591196bbf5c0d5f234180ea",
+    "url" : "https://www.nosalty.hu/recept/kevert-meggyes-ahogy-a-nagyi-csinalja",
+    "hozzavalok" : ["25 dkg cukor",
+                    "25 dkg finomliszt",
+                    "4 db tojás",
+                    "18 dkg margarin",
+                    "1 csomag sütőpor",
+                    "0.5 dl tej",
+                    "0.5 kg meggy"],
+    "recept" : "A 4 tojássárgáját a cukorral és a tejjel összekeverjük egy tálban. Utána hozzákeverjük a puha (de nem olvadt!) margarint. Külön tálkában összekeverjük a sütőport és a lisztet, majd hozzádjuk az előző keverékhez. A tojásfehérjéket egy csipet sóval kemény habbá verjük, és belekeverjük az előző dolgokhoz. Kivajazott és liszttel megszórt tepsibe terítjük a tésztát, és meghintjük liszttel a tészta tetejét, hogy ne süllyedjen le minden meggy. 180°-ra előmelegített sütőben kb. 40 percig sütjük."
+  },
+  {
+    "title" : "Chilis-barackos túrós pite",
+    "image" : "https://image-api.nosalty.hu/nosalty/images/recipes/Pu/lD/chilis-barackos-turos-pite.jpeg?mark=watermark.png&markpos=bottom-left&markpad=20&s=d47367f1f7121d4df9288a34b41b4d56",
+    "url" : "https://www.nosalty.hu/recept/chilis-barackos-turos-pite",
+    "hozzavalok" : ["30 dkg finomliszt",
+                    "1 tk szódabikarbóna",
+                    "1 csipet só",
+                    "2 db tojás",
+                    "15 dkg vaj",
+                    "50 dkg tehéntúró",
+                    "2 ek görög joghurt",
+                    "0.5 citromból nyert citromlé",
+                    "1 ek cukor",
+                    "30 dkg sárgabaracklekvár",
+                    "chili ízlés szerint (én szószt használtam, de por is lehet)"],
+    "recept" : "Tészta : Előmelegítjük a sütőt 180 fokra. Összekeverjük a száraz hozzávalókat, majd hozzáadjuk a tojást és a vajat. A tésztát összegyúrjuk, kibélelünk vele egy piteformát (én 30x30-asat használok), és a sütőbe tesszük 10 percre. Amíg sül, elkészítjük a tölteléket. Töltelék : Összekeverjük a túrót, a joghurtot és a tojást, majd hozzáadjuk a citromlevet és a cukrot is (ha szükséges, lehet bele több cukrot is tenni, én nem szeretem, ha túl édes). Egy külön tálban összekeverjük a lekvárt a chilivel. A lekváros keverék felével kikenjük a pitét, majd eloszlatjuk rajta a túrós keveréket, végül a tetejére kenjük a lekvár másik felét, és további 25-30 percig sütjük."
+  }
+]
